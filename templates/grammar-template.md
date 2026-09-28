@@ -1,18 +1,19 @@
-[⬅ Mục lục](../README.md)
+[⬆ Mục lục](../../README.md)
 
 # 〜(mẫu ngữ pháp)
 
+**Giáo trình:** みんなの日本語 初級Ⅰ／Ⅱ · [第?課](README.md)  
 **Cấp độ:** N?  
 **Ý nghĩa:** ...
 
 ## Cấu trúc
 
-| Loại từ | Cách nối |
-|---|---|
-| Động từ | V-? + 〜 |
-| Tính từ い | ... |
-| Tính từ な | ... |
-| Danh từ | ... |
+| Loại từ | Cấu trúc | Ví dụ |
+|---|---|---|
+| Động từ | Vて形／Vない形／V辞書形… + 〜 | ... |
+| Tính từ い | いA／いA（〜い）+ 〜 | ... |
+| Tính từ な | なA + 〜 | ... |
+| Danh từ | N + 〜 | ... |
 
 ## Cách dùng
 
