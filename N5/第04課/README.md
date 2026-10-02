@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第4課)
-
 # 第4課
-
-**Giáo trình:** みんなの日本語 初級Ⅰ · **Cấp độ:** N5
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -13,4 +9,4 @@
 | [N1と N2](と（並列）.md) | N1 và N2 |
 | [〜ね](ね.md) | …nhỉ / …nhé (mong người nghe đồng tình, xác nhận) |
 
-[⬅ 第3課](../../N5/第03課/README.md) · [第5課 ➡](../../N5/第05課/README.md)
+[← 第3課](../第03課/README.md) · [Mục lục](../../README.md) · [第5課 →](../第05課/README.md)

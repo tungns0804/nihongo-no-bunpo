@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第5課)
-
 # 第5課
-
-**Giáo trình:** みんなの日本語 初級Ⅰ · **Cấp độ:** N5
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -13,4 +9,4 @@
 | [いつ](いつ.md) | Khi nào |
 | [〜よ](よ.md) | …đấy / …đó (cho người nghe biết thông tin mới) |
 
-[⬅ 第4課](../../N5/第04課/README.md) · [第6課 ➡](../../N5/第06課/README.md)
+[← 第4課](../第04課/README.md) · [Mục lục](../../README.md) · [第6課 →](../第06課/README.md)

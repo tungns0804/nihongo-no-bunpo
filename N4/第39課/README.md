@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第39課)
-
 # 第39課
-
-**Giáo trình:** みんなの日本語 初級Ⅱ · **Cấp độ:** N4
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -10,4 +6,4 @@
 | [N で](で（原因）.md) | Vì N (nguyên nhân: thiên tai, bệnh tật, sự cố…) |
 | [普通形 ので、〜](ので.md) | Vì … nên … (khách quan, lịch sự) |
 
-[⬅ 第38課](../../N4/第38課/README.md) · [第40課 ➡](../../N4/第40課/README.md)
+[← 第38課](../第38課/README.md) · [Mục lục](../../README.md) · [第40課 →](../第40課/README.md)

@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第48課)
-
 # 第48課
-
-**Giáo trình:** みんなの日本語 初級Ⅱ · **Cấp độ:** N4
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -11,4 +7,4 @@
 | [N1（人）に N2を V使役（他動詞）](使役（他動詞）.md) | Bắt / cho ai làm gì (với tha động từ) |
 | [V使役て形 いただけませんか](させていただけませんか.md) | Xin cho phép tôi … được không ạ? |
 
-[⬅ 第47課](../../N4/第47課/README.md) · [第49課 ➡](../../N4/第49課/README.md)
+[← 第47課](../第47課/README.md) · [Mục lục](../../README.md) · [第49課 →](../第49課/README.md)

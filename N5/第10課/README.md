@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第10課)
-
 # 第10課
-
-**Giáo trình:** みんなの日本語 初級Ⅰ · **Cấp độ:** N5
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -12,4 +8,4 @@
 | [N1の N2（位置）](の（位置）.md) | Trên / dưới / trước / sau / trong... của N1 |
 | [N1や N2［など］](や.md) | N1, N2, v.v. (liệt kê tiêu biểu) |
 
-[⬅ 第9課](../../N5/第09課/README.md) · [第11課 ➡](../../N5/第11課/README.md)
+[← 第9課](../第09課/README.md) · [Mục lục](../../README.md) · [第11課 →](../第11課/README.md)

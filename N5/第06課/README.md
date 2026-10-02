@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第6課)
-
 # 第6課
-
-**Giáo trình:** みんなの日本語 初級Ⅰ · **Cấp độ:** N5
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -12,4 +8,4 @@
 | [V ませんか](ませんか.md) | …cùng … không? (lời mời) |
 | [V ましょう](ましょう.md) | Chúng ta hãy cùng … (đề nghị, hưởng ứng) |
 
-[⬅ 第5課](../../N5/第05課/README.md) · [第7課 ➡](../../N5/第07課/README.md)
+[← 第5課](../第05課/README.md) · [Mục lục](../../README.md) · [第7課 →](../第07課/README.md)

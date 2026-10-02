@@ -1,8 +1,4 @@
-[⬆ Mục lục](../../README.md#第8課)
-
 # 第8課
-
-**Giáo trình:** みんなの日本語 初級Ⅰ · **Cấp độ:** N5
 
 | Mẫu ngữ pháp | Ý nghĩa |
 |---|---|
@@ -14,4 +10,4 @@
 | [S1が、S2](が（逆接）.md) | S1 nhưng S2 |
 | [どれ](どれ.md) | Cái nào (trong ba thứ trở lên) |
 
-[⬅ 第7課](../../N5/第07課/README.md) · [第9課 ➡](../../N5/第09課/README.md)
+[← 第7課](../第07課/README.md) · [Mục lục](../../README.md) · [第9課 →](../第09課/README.md)

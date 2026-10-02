@@ -1,16 +1,11 @@
-[⬅ 普通形 でしょう？](でしょう（確認）.md) · [⬆ Mục lục](../../README.md#第21課) · [N でも V ませんか ➡](でも（提案）.md)
-
 # N1（<ruby>場所<rt>ばしょ</rt></ruby>）で N2 が あります
 
-**Giáo trình:** みんなの日本語 初級Ⅰ · [第21課](README.md)  
-**Cấp độ:** N5  
-**Ý nghĩa:** Ở N1 có (sự kiện) N2
+Ở N1 có (sự kiện) N2
 
 ## Cấu trúc
 
-| Cấu trúc | Ví dụ |
-|---|---|
-| N1（địa điểm）で N2（sự kiện）が あります | <ruby>東京<rt>とうきょう</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>とブラジルのサッカーの<ruby>試合<rt>しあい</rt></ruby>があります。 |
+**N1（địa điểm）で N2（sự kiện）が あります**  
+<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>日本<rt>にほん</rt></ruby>とブラジルのサッカーの<ruby>試合<rt>しあい</rt></ruby>があります。
 
 ## Cách dùng
 
@@ -27,9 +22,8 @@
 
 ## Lưu ý
 
-> [!IMPORTANT]
-> - 「<ruby>部屋<rt>へや</rt></ruby>**に**テレビがあります」 — tồn tại của vật (に).
-> - 「<ruby>体育館<rt>たいいくかん</rt></ruby>**で**パーティーがあります」 — sự kiện diễn ra (で).
+- 「<ruby>部屋<rt>へや</rt></ruby>**に**テレビがあります」 — tồn tại của vật (に).
+- 「<ruby>体育館<rt>たいいくかん</rt></ruby>**で**パーティーがあります」 — sự kiện diễn ra (で).
 
 ## Bài tập
 
@@ -39,13 +33,11 @@
 2. <ruby>公園<rt>こうえん</rt></ruby>（　）<ruby>池<rt>いけ</rt></ruby>があります。
 
 <details>
-<summary>Xem đáp án</summary>
+<summary>Đáp án</summary>
 
 1. で
 2. に
 
 </details>
 
----
-
-[⬅ 普通形 でしょう？](でしょう（確認）.md) · [⬆ Mục lục](../../README.md#第21課) · [N でも V ませんか ➡](でも（提案）.md)
+[← でしょう（確認）](でしょう（確認）.md) · [第21課](README.md) · [でも（提案） →](でも（提案）.md)
